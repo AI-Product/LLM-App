@@ -1,1 +1,1 @@
-# LLM-App
+This is the code repository for [Building LLM Powered Applications](https://llmapp.5loi.com).
